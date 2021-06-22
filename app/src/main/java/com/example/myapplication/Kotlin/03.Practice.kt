@@ -10,7 +10,7 @@ var f = "My name is $e Nice to meet you"
 
 //var abc : Int = null (오류 발생)
 var abc1 : Int? = null
-var abc2 : Double? = null
+var abc2 : String? = null
 
 var g = a + 3
 
